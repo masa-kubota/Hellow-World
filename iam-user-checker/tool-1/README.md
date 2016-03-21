@@ -81,12 +81,12 @@ SwitchRole先のサーバが追加された場合、「role_list.csv」の末尾
 |:-|:-|
 |user|IAMユーザアカウント名|
 |passwordlastused|AWS マネジメントコンソールに最後にサインインした日付と時刻|
-|accesskey1active|アクセスキーを所有しステータスが Active の場合はTRUE、それ以外の場合はFALSE|
-|accesskey1lastuseddate| アクセスキーが最も最近使用された日付と時刻|
-|accesskey2active| ２つ目のアクセスキーを所有しステータスが Active の場合は TRUE、それ以外の場合はFALSE|
-|access key2lastuseddate| ２つ目のアクセスキーが最も最近使用された日付と時刻|
-|eventTime| 踏み台からSwitchRole先にアクセスした日付と時刻|
-|SwitchRole| SwitchRole先と接続ユーザ情報（SwitchRole先:接続ユーザ)|
+|accesskey1active|アクセスキーを所有しステータスがActive の場合はTRUEそれ以外の場合はFALSE|
+|accesskey1lastuseddate|アクセスキーが最も最近使用された日付と時刻|
+|accesskey2active|２つ目のアクセスキーを所有しステータスがActiveの場合はTRUEそれ以外の場合はFALSE|
+|accesskey2lastuseddate|２つ目のアクセスキーが最も最近使用された日付と時刻|
+|eventTime|踏み台からSwitchRole先にアクセスした日付と時刻|
+|SwitchRole|SwitchRole先と接続ユーザ情報（SwitchRole先:接続ユーザ)|
 
 | Left align | Right align | Center align |
 |:-----------|------------:|:------------:|
