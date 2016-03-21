@@ -87,3 +87,13 @@ SwitchRole先のサーバが追加された場合、「role_list.csv」の末尾
 |access key2lastuseddate| ２つ目のアクセスキーが最も最近使用された日付と時刻|
 |eventTime| 踏み台からSwitchRole先にアクセスした日付と時刻|
 |SwitchRole| SwitchRole先と接続ユーザ情報（SwitchRole先:接続ユーザ)|
+
+| Left align | Right align | Center align |
+|:-----------|------------:|:------------:|
+| This       |        This |     This     |
+| column     |      column |    column    |
+| will       |        will |     will     |
+| be         |          be |      be      |
+| left       |       right |    center    |
+| aligned    |     aligned |   aligned    |
+
