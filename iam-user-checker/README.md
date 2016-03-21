@@ -46,7 +46,7 @@ $ status reports file NOT found.　
 　
 $ Role list　file NOT found. 
       ↑Role List.csvが配置されていない場合のメッセージ
- ```
+    ```
 
 2. 処理完了後、シェルスクリプトと同じディレクトリに以下の形式でcsvファイルが出力される
    
