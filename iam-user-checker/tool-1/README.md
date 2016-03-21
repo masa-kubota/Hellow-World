@@ -68,10 +68,10 @@ $ status file NOT found.　
 
 ####  SwitchRole先サーバが追加された場合
 * SwitchRole先のサーバが追加された場合、「role_list.csv」の末尾に、以下の内容を追記する
-
+    ```
      -e s/<SwitchRole先のアカウントID>/<SwitchRole先のアカウントID>_<環境名>/g
      例：-e s/1234567890/1234567890_kankyou-dev/g　 
-
+    ```
 
 ## 出力ファイル情報
 #### csvファイル出力される列の詳細
